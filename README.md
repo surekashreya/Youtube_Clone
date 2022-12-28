@@ -4,9 +4,14 @@ YouTube is a global online video sharing and social media platform headquartered
 
 
 It made using simple 
+>
 •	HTML 
+>
 •	CSS
+>
 •	JavaScript
+>
 •	Youtube_API
+>
 
 ![image](https://user-images.githubusercontent.com/88719106/209438937-4d172bf2-27ec-4645-a027-ead7aea124aa.png)
